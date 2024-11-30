@@ -174,7 +174,7 @@ local listed = {
 3896699123, -- chemhan21323
 1370768463 -- hackcc11
 }
-_G.WhiteListed = false
+_G.WhiteListed = true
         for _, v1 in pairs(listed) do
             if game.Players.LocalPlayer.UserId == v1 then
 _G.WhiteListed = true
