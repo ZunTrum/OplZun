@@ -3479,6 +3479,9 @@ end)
 page9:Line()
 page9:Label("â”‡ CANNON FARM â”‡")
 page9:Line()
+page9:Toggle("Cannon Farm Mob No Haki", false, function(daxc)
+    _G.cannonnohaki = daxc
+end)
 page9:Toggle("Cannon Farm Mob", false, function(daxc)
     _G.autocannonslow = daxc
 end)
@@ -3510,7 +3513,7 @@ spawn(function()
     while task.wait() do
         pcall(function()
 local plr = game.Players.LocalPlayer
-if _G.autocannonslow or _G.autocannonplr then
+if _G.autocannonslow or _G.autocannonplr or _G.cannonnohaki then
 for i,v in pairs(plr.Backpack:GetChildren()) do
 if v.Name == "Cannon Ball" then
 v.Parent = plr.Character
@@ -3538,7 +3541,8 @@ end)
 spawn(function()
     while task.wait(0) do
         pcall(function()
-            if _G.autocannon or _G.autocannonplr or _G.autocannonslow then
+            if _G.autocannon or _G.autocannonplr or _G.autocannonslow or _G.cannonnohaki then
+                fireclickdetector(workspace.Island11.CentralBuilding.Doors.Button.Button.ClickDetector)
                 local args = {
                     [1] = CFrame.new(Vector3.new(game.Players.LocalPlayer.Character.HumanoidRootPart.CFrame))
                 }
@@ -3560,7 +3564,7 @@ end)
 spawn(function()
     while task.wait(0) do
         pcall(function()
-            if _G.autocannon or _G.autocannonplr or _G.autocannonslow then
+            if _G.autocannon or _G.autocannonplr or _G.autocannonslow or _G.cannonnohaki then
                 repeat task.wait(0)
                     for i, v in pairs(game.workspace.ResourceHolder["Resources_" .. game.Players.LocalPlayer.UserId]:GetChildren()) do
                         if v.Name == "CannonBall" then
@@ -3583,8 +3587,7 @@ end)
 spawn(function()
     while wait(0) do
         pcall(function()
-            if _G.autocannon or  _G.autocannonplr  or _G.autocannonslow then
-                fireclickdetector(workspace.Island11.CentralBuilding.Doors.Button.Button.ClickDetector)
+                if _G.autocannon or  _G.autocannonplr  or _G.autocannonslow then
                 task.wait(0)
                 if not game.Players.LocalPlayer.PlayerGui.HealthBar.Frame.Status:FindFirstChild("BusoHaki") then
                     wait(0.5)
@@ -3602,7 +3605,7 @@ end)
 spawn(function() -- autofarm cannon
     while wait(0) do
         pcall(function()
-            if _G.autocannon or _G.autocannonslow then
+            if _G.autocannon or _G.autocannonslow or _G.cannonnohaki then
                 for _,v in pairs(game.Workspace.Enemies:GetChildren()) do
                     if string.find(v.Name, " Boar")
                     and v:FindFirstChild("HumanoidRootPart") then
@@ -3663,7 +3666,6 @@ spawn(function() -- autofarm cannon
         end)
     end
 end)
-
 page9:Line()
 page9:Label("â”‡ AUTO TELEPORT TO MOB â”‡")
 page9:Line()
