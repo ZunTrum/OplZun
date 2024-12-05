@@ -2581,25 +2581,25 @@ local remotes = {}
  end
  local plr = game.Players.LocalPlayer.Character.Name
 game.StarterGui:SetCore("SendNotification", {
-            Title = "This Messenge Sent From Saluna With Love",
+            Title = "This Messenge Sent From ZunKing With Love",
             Text = "Welcome To My Script! " ..plr,
             Duration = 15
           })
           wait()
 game.StarterGui:SetCore("SendNotification", {
-            Title = "This Messenge Sent From Saluna With Love",
-            Text = "THIS SCRIPT IS MADE BY IRENKISS.",
+            Title = "This Messenge Sent From ZunKing With Love",
+            Text = "THIS SCRIPT IS MADE BY ZunTrum.",
             Duration = 15
           })
           wait()
 game.StarterGui:SetCore("SendNotification", {
-            Title = "This Messenge Sent From Saluna With Love",
+            Title = "This Messenge Sent From ZunKing With Love",
             Text = "DON'T ABUSE THIS SCRIPT TOO MUCH.",
             Duration = 15
           })
           wait()
  
-                local win = Flux:Window("ZunKing (G11)", "MADE BY Zun", Color3.fromRGB(0,166,58), Enum.KeyCode.F2)
+                local win = Flux:Window("ZunKing", "MADE BY Zun", Color3.fromRGB(0,166,58), Enum.KeyCode.F2)
                 Flux:Notification("ANTI-STAFF AUTOMATICALLY TURNED ON PRESS F2 TO HIDE/SHOW GUI","OK")
         local page2 = win:Tab("FARMING", "http://www.roblox.com/asset/?id=9391995844")
         local page3 = win:Tab("ISLAND/TELEPORT", "http://www.roblox.com/asset/?id=9391995844")
