@@ -6182,7 +6182,7 @@ local args = {
     [3] = MELEEAFF,
     [4] = SNIPAFF,
     [5] = SWORDAFF,
-    [6] = "Cashs"
+    [6] = "Cash"
 }
 
 workspace:WaitForChild("Merchants"):WaitForChild("AffinityMerchant"):WaitForChild("Clickable"):WaitForChild("Retum"):FireServer(unpack(args))
@@ -6193,7 +6193,7 @@ local args = {
     [3] = MELEEAFF,
     [4] = SNIPAFF,
     [5] = SWORDAFF,
-    [6] = "Cashs"
+    [6] = "Cash"
 }
 
 workspace:WaitForChild("Merchants"):WaitForChild("AffinityMerchant"):WaitForChild("Clickable"):WaitForChild("Retum"):FireServer(unpack(args))
@@ -6205,7 +6205,7 @@ local args = {
     [3] = MELEEAFF,
     [4] = SNIPAFF,
     [5] = SWORDAFF,
-    [6] = "Cashs"
+    [6] = "Cash"
 }
 
 workspace:WaitForChild("Merchants"):WaitForChild("AffinityMerchant"):WaitForChild("Clickable"):WaitForChild("Retum"):FireServer(unpack(args))
@@ -6217,7 +6217,7 @@ local args = {
     [3] = MELEEAFF,
     [4] = SNIPAFF,
     [5] = SWORDAFF,
-    [6] = "Cashs"
+    [6] = "Cash"
 }
 
 workspace:WaitForChild("Merchants"):WaitForChild("AffinityMerchant"):WaitForChild("Clickable"):WaitForChild("Retum"):FireServer(unpack(args))
@@ -6228,7 +6228,7 @@ local args = {
     [3] = MELEEAFF,
     [4] = SNIPAFF,
     [5] = SWORDAFF,
-    [6] = "Cashs"
+    [6] = "Cash"
 }
 
 workspace:WaitForChild("Merchants"):WaitForChild("AffinityMerchant"):WaitForChild("Clickable"):WaitForChild("Retum"):FireServer(unpack(args))
@@ -6239,7 +6239,7 @@ local args = {
     [3] = MELEEAFF,
     [4] = SNIPAFF,
     [5] = SWORDAFF,
-    [6] = "Cashs"
+    [6] = "Cash"
 }
 
 workspace:WaitForChild("Merchants"):WaitForChild("AffinityMerchant"):WaitForChild("Clickable"):WaitForChild("Retum"):FireServer(unpack(args))
@@ -6250,7 +6250,7 @@ local args = {
     [3] = MELEEAFF,
     [4] = SNIPAFF,
     [5] = SWORDAFF,
-    [6] = "Cashs"
+    [6] = "Cash"
 }
 
 workspace:WaitForChild("Merchants"):WaitForChild("AffinityMerchant"):WaitForChild("Clickable"):WaitForChild("Retum"):FireServer(unpack(args))
@@ -6261,7 +6261,7 @@ local args = {
     [3] = MELEEAFF,
     [4] = SNIPAFF,
     [5] = SWORDAFF,
-    [6] = "Cashs"
+    [6] = "Cash"
 }
 
 workspace:WaitForChild("Merchants"):WaitForChild("AffinityMerchant"):WaitForChild("Clickable"):WaitForChild("Retum"):FireServer(unpack(args))
@@ -6272,7 +6272,7 @@ local args = {
     [3] = MELEEAFF,
     [4] = SNIPAFF,
     [5] = SWORDAFF,
-    [6] = "Cashs"
+    [6] = "Cash"
 }
 
 workspace:WaitForChild("Merchants"):WaitForChild("AffinityMerchant"):WaitForChild("Clickable"):WaitForChild("Retum"):FireServer(unpack(args))
@@ -6283,7 +6283,7 @@ local args = {
     [3] = MELEEAFF,
     [4] = SNIPAFF,
     [5] = SWORDAFF,
-    [6] = "Cashs"
+    [6] = "Cash"
 }
 
 workspace:WaitForChild("Merchants"):WaitForChild("AffinityMerchant"):WaitForChild("Clickable"):WaitForChild("Retum"):FireServer(unpack(args))
@@ -6294,7 +6294,7 @@ local args = {
     [3] = MELEEAFF,
     [4] = SNIPAFF,
     [5] = SWORDAFF,
-    [6] = "Cashs"
+    [6] = "Cash"
 }
 
 workspace:WaitForChild("Merchants"):WaitForChild("AffinityMerchant"):WaitForChild("Clickable"):WaitForChild("Retum"):FireServer(unpack(args))
@@ -6305,7 +6305,7 @@ local args = {
     [3] = MELEEAFF,
     [4] = SNIPAFF,
     [5] = SWORDAFF,
-    [6] = "Cashs"
+    [6] = "Cash"
 }
 
 workspace:WaitForChild("Merchants"):WaitForChild("AffinityMerchant"):WaitForChild("Clickable"):WaitForChild("Retum"):FireServer(unpack(args))
@@ -6316,7 +6316,7 @@ local args = {
     [3] = MELEEAFF,
     [4] = SNIPAFF,
     [5] = SWORDAFF,
-    [6] = "Cashs"
+    [6] = "Cash"
 }
 
 workspace:WaitForChild("Merchants"):WaitForChild("AffinityMerchant"):WaitForChild("Clickable"):WaitForChild("Retum"):FireServer(unpack(args))
@@ -6426,7 +6426,7 @@ local args = {
     [3] = MELEEAFF,
     [4] = SNIPAFF,
     [5] = SWORDAFF,
-    [6] = "Cashs"
+    [6] = "Cash"
 }
 
 workspace:WaitForChild("Merchants"):WaitForChild("AffinityMerchant"):WaitForChild("Clickable"):WaitForChild("Retum"):FireServer(unpack(args))
@@ -6438,7 +6438,7 @@ local args = {
     [3] = MELEEAFF,
     [4] = SNIPAFF,
     [5] = SWORDAFF,
-    [6] = "Cashs"
+    [6] = "Cash"
 }
 
 workspace:WaitForChild("Merchants"):WaitForChild("AffinityMerchant"):WaitForChild("Clickable"):WaitForChild("Retum"):FireServer(unpack(args))
@@ -6450,7 +6450,7 @@ local args = {
     [3] = MELEEAFF,
     [4] = SNIPAFF,
     [5] = SWORDAFF,
-    [6] = "Cashs"
+    [6] = "Cash"
 }
 
 workspace:WaitForChild("Merchants"):WaitForChild("AffinityMerchant"):WaitForChild("Clickable"):WaitForChild("Retum"):FireServer(unpack(args))
@@ -6461,7 +6461,7 @@ local args = {
     [3] = MELEEAFF,
     [4] = SNIPAFF,
     [5] = SWORDAFF,
-    [6] = "Cashs"
+    [6] = "Cash"
 }
 
 workspace:WaitForChild("Merchants"):WaitForChild("AffinityMerchant"):WaitForChild("Clickable"):WaitForChild("Retum"):FireServer(unpack(args))
@@ -6473,7 +6473,7 @@ local args = {
     [3] = MELEEAFF,
     [4] = SNIPAFF,
     [5] = SWORDAFF,
-    [6] = "Cashs"
+    [6] = "Cash"
 }
 
 workspace:WaitForChild("Merchants"):WaitForChild("AffinityMerchant"):WaitForChild("Clickable"):WaitForChild("Retum"):FireServer(unpack(args))
@@ -6485,7 +6485,7 @@ local args = {
     [3] = MELEEAFF,
     [4] = SNIPAFF,
     [5] = SWORDAFF,
-    [6] = "Cashs"
+    [6] = "Cash"
 }
 
 workspace:WaitForChild("Merchants"):WaitForChild("AffinityMerchant"):WaitForChild("Clickable"):WaitForChild("Retum"):FireServer(unpack(args))
@@ -6496,7 +6496,7 @@ local args = {
     [3] = MELEEAFF,
     [4] = SNIPAFF,
     [5] = SWORDAFF,
-    [6] = "Cashs"
+    [6] = "Cash"
 }
 
 workspace:WaitForChild("Merchants"):WaitForChild("AffinityMerchant"):WaitForChild("Clickable"):WaitForChild("Retum"):FireServer(unpack(args))
@@ -6507,7 +6507,7 @@ local args = {
     [3] = MELEEAFF,
     [4] = SNIPAFF,
     [5] = SWORDAFF,
-    [6] = "Cashs"
+    [6] = "Cash"
 }
 
 workspace:WaitForChild("Merchants"):WaitForChild("AffinityMerchant"):WaitForChild("Clickable"):WaitForChild("Retum"):FireServer(unpack(args))
@@ -6518,7 +6518,7 @@ local args = {
     [3] = MELEEAFF,
     [4] = SNIPAFF,
     [5] = SWORDAFF,
-    [6] = "Cashs"
+    [6] = "Cash"
 }
 
 workspace:WaitForChild("Merchants"):WaitForChild("AffinityMerchant"):WaitForChild("Clickable"):WaitForChild("Retum"):FireServer(unpack(args))
@@ -6529,7 +6529,7 @@ local args = {
     [3] = MELEEAFF,
     [4] = SNIPAFF,
     [5] = SWORDAFF,
-    [6] = "Cashs"
+    [6] = "Cash"
 }
 
 workspace:WaitForChild("Merchants"):WaitForChild("AffinityMerchant"):WaitForChild("Clickable"):WaitForChild("Retum"):FireServer(unpack(args))
@@ -6540,7 +6540,7 @@ local args = {
     [3] = MELEEAFF,
     [4] = SNIPAFF,
     [5] = SWORDAFF,
-    [6] = "Cashs"
+    [6] = "Cash"
 }
 
 workspace:WaitForChild("Merchants"):WaitForChild("AffinityMerchant"):WaitForChild("Clickable"):WaitForChild("Retum"):FireServer(unpack(args))
@@ -6551,7 +6551,7 @@ local args = {
     [3] = MELEEAFF,
     [4] = SNIPAFF,
     [5] = SWORDAFF,
-    [6] = "Cashs"
+    [6] = "Cash"
 }
 
 workspace:WaitForChild("Merchants"):WaitForChild("AffinityMerchant"):WaitForChild("Clickable"):WaitForChild("Retum"):FireServer(unpack(args))
@@ -6562,7 +6562,7 @@ local args = {
     [3] = MELEEAFF,
     [4] = SNIPAFF,
     [5] = SWORDAFF,
-    [6] = "Cashs"
+    [6] = "Cash"
 }
 
 workspace:WaitForChild("Merchants"):WaitForChild("AffinityMerchant"):WaitForChild("Clickable"):WaitForChild("Retum"):FireServer(unpack(args))
@@ -6573,7 +6573,7 @@ local args = {
     [3] = MELEEAFF,
     [4] = SNIPAFF,
     [5] = SWORDAFF,
-    [6] = "Cashs"
+    [6] = "Cash"
 }
 
 workspace:WaitForChild("Merchants"):WaitForChild("AffinityMerchant"):WaitForChild("Clickable"):WaitForChild("Retum"):FireServer(unpack(args))
@@ -6584,7 +6584,7 @@ local args = {
     [3] = MELEEAFF,
     [4] = SNIPAFF,
     [5] = SWORDAFF,
-    [6] = "Cashs"
+    [6] = "Cash"
 }
 
 workspace:WaitForChild("Merchants"):WaitForChild("AffinityMerchant"):WaitForChild("Clickable"):WaitForChild("Retum"):FireServer(unpack(args))
